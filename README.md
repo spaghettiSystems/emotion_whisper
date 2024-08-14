@@ -3,6 +3,11 @@ Paper on [arxiv](https://arxiv.org/abs/2311.08607).
 
 This repository contains a model weights release and an example notebook.
 
+## NEW
+
+We release a new model checkpoint showing better performance than the previous public model. 
+The new checkpoint also uses MRL (Matryoshka Representation Learning) which allows for embedding emotions into any number of dimensions natively.
+Please find model under releases.
 
 ## Overview
 
